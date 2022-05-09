@@ -1,5 +1,14 @@
-## Hi there 👋
+## Howdy! 👋
 
+Welcome the Unknown Technology Solution's Github!
+
+<!--We are a company who's whole goal is to provide a solution to every technology related problem presented to us!-->
+
+We were founded in 2017 by an aspiring software engineer and highschooler, Zane Reick.
+
+Ever since our founding we have made it our goal to solve every techological problem presented to us with the support and knowledge to back it.
+
+We build everything with applications ranging from home and personal usage, all the way to things used in datacenters and massive enterprises.
 <!--
 
 **Here are some ideas to get you started:**
